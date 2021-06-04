@@ -1,0 +1,958 @@
+
+       [
+        
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r1l1",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"26,2529 62,2520 105,2532 155,2513 150,2444 111,2462 77,2453 22,2482 26,2529\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l1",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "32.",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"1514,109 1614,135 1622,75 1521,52 1514,109\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l2",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "Statut",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"578,280 631,284 693,258 730,268 749,256 806,280 901,258 962,276 961,161 863,170 788,123 711,130 666,160 594,155 577,165 578,280\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l3",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "der Arbeiter-Kranken-Kasse",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"314,386 530,399 564,386 653,398 707,386 735,406 881,389 909,405 956,390 991,413 1068,389 1097,401 1173,388 1229,403 1262,395 1263,302 1193,301 1113,319 1096,336 1050,331 997,299 857,307 795,295 742,329 648,298 610,326 543,297 486,323 410,314 315,344 314,386\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l4",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "Der Saskaer Kohlenwuke und Briquottfabriken",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"153,447 880,446 923,453 953,478 976,469 998,491 1037,477 1049,490 1170,500 1243,471 1409,491 1410,409 1342,405 1315,418 1221,403 1186,416 1117,400 1078,408 1056,389 930,420 876,392 797,397 773,414 700,387 647,407 621,386 563,404 508,388 368,386 276,411 223,384 153,381 153,447\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l5",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "zu Haska.",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"626,561 754,574 816,551 889,574 971,564 992,556 993,457 963,441 934,456 854,457 820,442 774,454 628,445 626,561\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l6",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "§1.",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"1120,681 1156,666 1216,670 1218,583 1154,609 1121,595 1120,681\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l7",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "Nach § 846 des Sächsischen¬",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"849,753 886,744 930,775 1003,745 1089,758 1178,740 1322,785 1434,761 1499,788 1523,771 1582,777 1583,710 1507,690 1431,707 1358,683 1244,709 1175,667 1116,694 1044,683 991,695 931,663 850,675 849,753\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l8",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "Berggesetzes vom 16 Juni 1868",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"839,815 868,814 911,849 940,837 959,854 988,836 1081,851 1179,811 1198,825 1308,816 1331,835 1384,817 1404,828 1470,818 1544,838 1606,821 1607,771 1523,771 1489,788 1430,760 1329,787 1298,769 1130,768 1099,752 1052,786 1020,787 948,784 891,749 849,747 839,815\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l9",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "ist jeder auf den Saskaer",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"1588,892 1614,888 1604,841 1579,853 1588,892\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l10",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "ist jeder auf den Saskaer",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"830,907 883,921 964,884 1024,900 1077,886 1122,917 1176,914 1215,889 1526,900 1591,882 1591,841 1476,818 1393,833 1357,856 1333,844 1299,863 1260,838 1144,836 1103,861 1001,839 964,853 937,839 891,854 861,843 830,859 830,907\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l11",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "Kohlenwerken und Briquett¬",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"840,996 893,991 941,962 981,978 1014,961 1061,980 1093,958 1190,975 1232,953 1289,969 1351,963 1415,986 1448,986 1491,957 1570,963 1615,984 1616,915 1564,934 1461,899 1392,912 1369,892 1353,907 1319,892 1190,927 1164,911 1075,924 1058,907 957,914 924,898 840,938 840,996\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l12",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "Fabriken beschäftigte Arbeiter",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"827,1051 897,1039 973,1060 1033,1021 1157,1039 1189,1069 1272,1058 1293,1077 1342,1076 1370,1056 1483,1035 1603,1041 1603,970 1490,997 1466,986 1429,997 1404,977 1337,993 1283,970 1243,982 1201,973 1087,1005 1055,978 915,974 828,1002 827,1051\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l13",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "verpflichtet der errichteten",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"842,1105 877,1104 991,1145 1051,1110 1075,1126 1125,1101 1212,1132 1251,1109 1327,1108 1383,1144 1453,1106 1490,1123 1588,1107 1589,1054 1539,1075 1458,1042 1415,1076 1373,1085 1217,1057 1161,1074 1137,1052 1071,1058 1022,1028 972,1061 928,1055 843,1079 842,1105\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l14",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "Srankenkasse beizutreten",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"875,1144 904,1140 900,1114 872,1123 875,1144\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l15",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "Srankenkasse beizutreten",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"838,1176 913,1166 1123,1201 1157,1170 1180,1169 1287,1209 1334,1186 1367,1198 1389,1179 1581,1189 1582,1138 1467,1115 1434,1135 1416,1125 1387,1143 1352,1134 1305,1149 1260,1125 1237,1143 1110,1109 1075,1126 1029,1119 966,1151 906,1149 839,1125 838,1176\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l16",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "Kund die Statuten derselben",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"847,1257 886,1267 933,1253 957,1266 996,1246 1035,1267 1083,1247 1137,1276 1220,1250 1282,1249 1315,1265 1352,1248 1433,1271 1480,1248 1495,1261 1553,1248 1581,1259 1616,1245 1617,1227 1586,1228 1549,1202 1452,1217 1407,1202 1377,1227 1354,1211 1190,1188 1137,1190 1095,1216 1050,1195 994,1214 955,1194 897,1202 871,1190 848,1192 847,1257\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l17",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "zu befolgen.",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"829,1342 933,1318 1048,1365 1065,1347 1143,1336 1172,1315 1241,1332 1240,1251 1138,1275 1086,1248 1044,1268 923,1262 861,1275 829,1286 829,1342\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l18",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "§.2.",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"1130,1399 1237,1383 1234,1328 1174,1314 1127,1336 1130,1399\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l19",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "Zweck der genannten",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"884,1470 917,1451 938,1466 1024,1452 1142,1470 1176,1489 1227,1459 1333,1450 1373,1474 1395,1459 1476,1466 1495,1455 1603,1476 1604,1403 1580,1414 1486,1399 1405,1429 1364,1410 1336,1421 1251,1403 1010,1418 936,1371 900,1372 885,1375 884,1470\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l20",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "Kasse ist, den auf den ge¬",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"836,1554 869,1539 948,1561 1066,1526 1165,1547 1194,1529 1253,1524 1296,1550 1332,1533 1405,1550 1450,1532 1504,1563 1559,1539 1604,1549 1604,1511 1579,1514 1542,1489 1409,1491 1339,1467 1253,1509 1207,1484 1127,1496 1030,1453 948,1469 917,1456 870,1496 837,1495 836,1554\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l21",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "sammten Maskaer Werken",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"829,1620 852,1626 961,1595 995,1617 1057,1603 1085,1627 1196,1603 1259,1629 1291,1601 1331,1601 1410,1633 1444,1610 1579,1610 1580,1539 1477,1569 1429,1542 1353,1544 1328,1561 1287,1540 1252,1551 1190,1532 1128,1540 1080,1566 1033,1558 991,1578 865,1539 830,1556 829,1620\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l22",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "beschäftigten Arbeitern Unter¬",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"805,1698 853,1711 903,1689 998,1705 1059,1673 1200,1685 1222,1667 1248,1679 1342,1667 1400,1686 1438,1673 1505,1689 1565,1678 1601,1691 1601,1632 1542,1641 1497,1620 1449,1640 1416,1628 1357,1644 1252,1622 1202,1642 1127,1616 1043,1647 994,1625 884,1616 863,1633 806,1631 805,1698\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l23",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "stützung während der durch",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"839,1768 936,1759 988,1786 1062,1738 1110,1743 1138,1767 1206,1739 1260,1754 1393,1742 1516,1788 1549,1771 1596,1778 1597,1716 1496,1705 1454,1720 1412,1699 1387,1711 1257,1701 1215,1681 1166,1712 1062,1704 1026,1716 980,1693 963,1704 898,1689 840,1714 839,1768\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l24",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "unrnschuldete Krankheiten",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"827,1807 928,1817 960,1844 1029,1817 1115,1810 1251,1829 1268,1819 1363,1854 1413,1817 1591,1824 1592,1776 1517,1788 1496,1772 1465,1782 1406,1761 1339,1770 1283,1752 1249,1775 1138,1778 1052,1755 949,1782 853,1764 828,1771 827,1807\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l25",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "entstandenen Verdienstlosig¬",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"827,1882 887,1881 917,1905 953,1889 1026,1906 1118,1879 1161,1897 1182,1882 1223,1895 1312,1883 1352,1904 1421,1887 1442,1907 1483,1899 1500,1913 1554,1905 1618,1921 1619,1833 1543,1848 1520,1836 1471,1863 1411,1827 1363,1854 1302,1827 1233,1863 1161,1846 1139,1860 1072,1833 1033,1856 990,1830 959,1845 913,1821 883,1842 828,1849 827,1882\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l26",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "keit zu gewähren.",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"819,1951 920,1949 950,1971 1035,1979 1057,1968 1100,1985 1163,1956 1245,1981 1276,1956 1322,1977 1349,1954 1382,1958 1382,1924 1329,1926 1269,1891 1202,1926 1173,1911 1089,1922 952,1895 919,1918 879,1896 856,1911 820,1902 819,1951\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l27",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "§. 3.",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"1131,2021 1184,2039 1227,2027 1228,1952 1131,1962 1131,2021\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l28",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "Wer zur Werksarbeit ange¬",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"873,2109 1000,2126 1071,2085 1174,2103 1215,2085 1400,2106 1457,2096 1541,2124 1594,2105 1620,2121 1633,2118 1634,2053 1553,2066 1479,2041 1337,2060 1240,2024 1187,2040 1168,2025 1101,2047 1011,2042 952,2018 927,2036 874,2041 873,2109\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l29",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "nommer ist, muß auf Ver¬",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"828,2162 854,2145 877,2160 909,2148 949,2169 984,2162 1068,2200 1115,2196 1148,2167 1242,2161 1322,2202 1372,2170 1426,2191 1504,2165 1607,2173 1622,2168 1623,2116 1497,2121 1406,2101 1303,2133 1255,2130 1192,2101 1119,2100 986,2133 955,2113 900,2132 853,2120 829,2129 828,2162\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l30",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "langen, bevor er diese",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"811,2242 839,2240 874,2270 901,2273 964,2224 1065,2246 1124,2225 1197,2244 1216,2230 1284,2242 1359,2223 1392,2238 1429,2226 1469,2254 1547,2241 1581,2261 1591,2191 1546,2186 1508,2202 1477,2175 1404,2192 1381,2179 1355,2201 1299,2194 1252,2210 1148,2167 1114,2196 1042,2196 1007,2179 971,2204 889,2172 870,2181 811,2167 811,2242\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l31",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "beginnt und in die Liste",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"818,2327 860,2343 938,2304 1089,2308 1109,2294 1305,2312 1338,2294 1373,2317 1465,2308 1513,2330 1603,2316 1604,2255 1524,2239 1456,2270 1253,2252 1200,2269 1149,2246 1105,2246 1054,2268 1000,2258 981,2272 956,2255 923,2277 868,2241 832,2241 820,2243 818,2327\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l32",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "der Krenkenkassen-Mitglieder",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"826,2375 899,2380 941,2365 1095,2385 1126,2371 1180,2401 1264,2385 1289,2408 1354,2397 1380,2419 1424,2405 1478,2412 1535,2384 1606,2396 1607,2339 1569,2330 1509,2352 1418,2314 1370,2313 1345,2338 1284,2349 1253,2321 1139,2303 1062,2325 1004,2302 937,2300 863,2343 827,2340 826,2375\"></polygon></svg>"
+            }
+       }
+       }
+       ,
+        {
+            "type":"Annotation",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "motivation": "commenting",
+            "id": "facs_1_r2l33",
+        
+                "body":[
+                {
+                "type": "TextualBody",
+                "value": "eingetigen",
+                "purpose": "commenting",
+                "creator": { "id": "http://www.example.com/rainer", "name": "rainer" },
+                "created": "2021-04-20T15:05:45.250Z",
+                "modified": "2021-04-20T15:05:45.613Z"
+                }
+                ],
+            
+            
+       "target": {
+       "source":"",
+       "selector":
+           { 
+           "type":"SvgSelector",
+           "value":"<svg><polygon points=\"1230,2458 1292,2487 1353,2461 1392,2483 1452,2485 1495,2461 1557,2474 1592,2465 1593,2425 1554,2432 1453,2405 1330,2419 1307,2398 1231,2419 1230,2458\"></polygon></svg>"
+            }
+       }
+       }
+       
+       ] 
+    
+       
