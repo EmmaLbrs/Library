@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2021-07-08T12:01:06Z. .
+Schema generated from ODD source 2021-07-08T12:15:08Z. .
 TEI Edition: Version 4.2.2. Last updated on
 	9th April 2021, revision 609a109b1
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.2.2/
@@ -449,6 +449,54 @@ Suggested values include: 1] cm (centimetres); 2] mm (millimetres); 3] in (inche
          </attribute>
       </optional>
    </define>
+   <define name="tei_att.media.attributes">
+      <ref name="tei_att.media.attribute.width"/>
+      <ref name="tei_att.media.attribute.height"/>
+      <ref name="tei_att.media.attribute.scale"/>
+   </define>
+   <define name="tei_att.media.attribute.width">
+      <optional>
+         <attribute name="width">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Where the media are displayed, indicates the display width</a:documentation>
+            <data type="token">
+               <param name="pattern">[\-+]?\d+(\.\d+)?(%|cm|mm|in|pt|pc|px|em|ex|gd|rem|vw|vh|vm)</param>
+            </data>
+         </attribute>
+      </optional>
+   </define>
+   <define name="tei_att.media.attribute.height">
+      <optional>
+         <attribute name="height">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Where the media are displayed, indicates the display height</a:documentation>
+            <data type="token">
+               <param name="pattern">[\-+]?\d+(\.\d+)?(%|cm|mm|in|pt|pc|px|em|ex|gd|rem|vw|vh|vm)</param>
+            </data>
+         </attribute>
+      </optional>
+   </define>
+   <define name="tei_att.media.attribute.scale">
+      <optional>
+         <attribute name="scale">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">Where the media are displayed, indicates a scale factor to be applied when generating the desired display size</a:documentation>
+            <choice>
+               <data type="double"/>
+               <data type="token">
+                  <param name="pattern">(\-?[\d]+/\-?[\d]+)</param>
+               </data>
+               <data type="decimal"/>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   <define name="tei_att.resourced.attributes">
+      <ref name="tei_att.resourced.attribute.url"/>
+   </define>
+   <define name="tei_att.resourced.attribute.url">
+      <attribute name="url">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(uniform resource locator) specifies the URL from which the media concerned may be obtained.</a:documentation>
+         <data type="anyURI"/>
+      </attribute>
+   </define>
    <define name="tei_att.naming.attributes">
       <ref name="tei_att.canonical.attributes"/>
       <ref name="tei_att.naming.attribute.role"/>
@@ -792,6 +840,7 @@ Suggested values include: 1] top; 2] bottom; 3] margin; 4] opposite; 5] overleaf
    </define>
    <define name="tei_model.graphicLike">
       <choice>
+         <ref name="tei_graphic"/>
          <ref name="tei_formula"/>
       </choice>
    </define>
@@ -1603,6 +1652,7 @@ Suggested values include: 1] top; 2] bottom; 3] margin; 4] opposite; 5] overleaf
    </define>
    <define name="tei_model.titlepagePart">
       <choice>
+         <ref name="tei_graphic"/>
          <ref name="tei_byline"/>
          <ref name="tei_argument"/>
          <ref name="tei_epigraph"/>
@@ -2706,6 +2756,18 @@ Measures]</a:documentation>
          <empty/>
       </element>
    </define>
+   <define name="tei_graphic">
+      <element name="graphic">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(graphic) indicates the location of a graphic or illustration, either forming part of a text, or providing an image of it. [3.10. Graphics and Other Non-textual Components 11.1. Digital Facsimiles]</a:documentation>
+         <zeroOrMore>
+            <ref name="tei_model.descLike"/>
+         </zeroOrMore>
+         <ref name="tei_att.global.attributes"/>
+         <ref name="tei_att.media.attributes"/>
+         <ref name="tei_att.resourced.attributes"/>
+         <empty/>
+      </element>
+   </define>
    <define name="tei_milestone">
       <element name="milestone">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(milestone) marks a boundary point separating any kind of section of a text, typically but not necessarily indicating a point at which some part of a standard reference system changes, where the change is not represented by a structural element. [3.11.3. Milestone
@@ -3403,6 +3465,8 @@ Suggested values include: 1] DTACorpusPublisher</a:documentation>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   <value>URLIIIF</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>Wikidata</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                </choice>
             </attribute>
          </optional>
@@ -3694,15 +3758,13 @@ Sample values include: 1] http://www.deutschestextarchiv.de/doku/klassifikation#
                  xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                  prefix="rng"
                  uri="http://relaxng.org/ns/structure/1.0"/>
-         <optional>
-            <attribute name="xml:id">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(identifier) provides a unique identifier for the element bearing the attribute.</a:documentation>
-               <choice>
-                  <value>dtabf</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">DTA-Basisformat; notwendig für die Verwendung des DTA-oXygen-Frameworks DTAoX</a:documentation>
-               </choice>
-            </attribute>
-         </optional>
+         <attribute name="xml:id">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(identifier) XML id for the Item.</a:documentation>
+            <choice>
+               <value>dtabf</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">DTA-Basisformat; notwendig für die Verwendung des DTA-oXygen-Frameworks DTAoX</a:documentation>
+            </choice>
+         </attribute>
          <empty/>
       </element>
    </define>
